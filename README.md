@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Pagina De Eventos</h3>
 <div align="center">
-<a href="https://github.com/Isa94d-lab/Pagina-de-Eventos.git"_blank"><img src="https://github.com/user-attachments/assets/9421cfd7-4f39-4109-97a3-af6e754cc718" width="475" height="225" alt="Pagina De Eventos"></a>
+<a href="https://github.com/Isa94d-lab/Pagina-de-Eventos.git" target="_blank"><img src="https://github.com/user-attachments/assets/50815eaa-aab6-449e-8fe1-afef53bf3b1c" width="475" height="225" alt="Pagina De Eventos"></a>
 <p>
 <a href="https://github.com/Isa94d-lab/Pagina-de-Eventos.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -27,7 +27,21 @@
 </div>
                                                                                       
 </td>
-</table>
+
+<td width="50%">
+<h3 align="center">Liga-BetPlay</h3>
+<div align="center">                                       
+<a href="https://github.com/Isa94d-lab/LIga-BetPlay.git" target="_blank"><img src="https://github.com/user-attachments/assets/fae8378b-807d-480c-a55e-c1086c895e4b" width="475" height="225" alt="Pagina De Eventos"></a>
+<br>
+<p>
+<a href="https://github.com/Isa94d-lab/LIga-BetPlay.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
 <!--
 **Isa94d-lab/Isa94d-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
