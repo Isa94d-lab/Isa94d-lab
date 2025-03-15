@@ -75,6 +75,38 @@
 </div>
 <br>
 
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">F1 RACING</h3>
+<div align="center">
+<a href="https://github.com/Isa94d-lab/F1-RACING.git" target="_blank"><img src="https://github.com/user-attachments/assets/6de97cf1-c886-4f68-9511-8fe568c79d9d" width="475" height="225" alt="Pagina De Eventos"></a>
+<p>
+<a href="https://github.com/Isa94d-lab/PaginaWeb-Hamburgueseria.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Portafolio</h3>
+<div align="center">                                       
+<a href="https://github.com/Isa94d-lab/Portafolio.git" target="_blank"><img src="https://github.com/user-attachments/assets/526ece74-0e3b-4cb0-8d64-876d701a5065" width="475" height="225" alt="Pagina De Eventos"></a>
+<br>
+<p>
+<a href="https://github.com/Isa94d-lab/Piedra-papel-o-tijera.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 <!--
 **Isa94d-lab/Isa94d-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
