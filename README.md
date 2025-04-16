@@ -1,7 +1,11 @@
-<div align="center">
-<h1> Hola 👋 soy Stefphani, un gusto </h1>
+<div align="center" >
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&size=28&center=true&vCenter=true&width=700&height=100&lines=Hola+👋+soy+Stefphani,+un+gusto">
+</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/07a6c3be-579f-4560-9344-1ea07e27b1ee">
+
+
+
 
 
 # Experiencia 💻
