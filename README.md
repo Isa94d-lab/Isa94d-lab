@@ -3,18 +3,36 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&size=28&center=true&vCenter=true&width=700&height=100&lines=Hola+👋+soy+Stefphani,+un+gusto">
 </h1>
 </div>
-
-
-
-
+<img src="https://github.com/user-attachments/assets/07a6c3be-579f-4560-9344-1ea07e27b1ee">
 
 # Experiencia 💻
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+
+  <!-- LADO IZQUIERDO: BADGES -->
+  <div align="left" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  </div>
+
+  <!-- LADO DERECHO: IMAGEN -->
+  <div align="right" style="display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/4a6b1479-7a44-4977-bad9-f9aad5deec49" width="150px"/>
+  </div>
+
+</div>
+
+
 
 # Sobre mi 🕹️
 - Estoy iniciando en el mundo de la programacion 💻
 - Siempre me encuentro dispuesta a seguir mejorando mis habilidades 🎯
-- Por el momento tengo conocimientos basicos en lenguajes de programacion como: (Python, HTML, CSS y JavaScript) 
+- Por el momento tengo conocimientos basicos en lenguajes de programacion como: (Python, HTML, CSS y JavaScript) 👾
+- Disfruto mucho del ámbito del diseño y la autentisidad 🎨
+
 
 # Proyectos 💣
 <table>
