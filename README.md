@@ -7,25 +7,25 @@
 
 # Experiencia 💻
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+
+<div align="left" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
 
   <!-- LADO IZQUIERDO: BADGES -->
-  <div align="left" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  </div>
-
+  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  
   <!-- LADO DERECHO: IMAGEN -->
-  <div align="right" style="display: inline-block;">
-    <img src="https://github.com/user-attachments/assets/4a6b1479-7a44-4977-bad9-f9aad5deec49" width="150px"/>
-  </div>
-
+  <img src="https://github.com/user-attachments/assets/4a6b1479-7a44-4977-bad9-f9aad5deec49" width="150px" style="display: inline-block; position: relative; top: -600px; margin-top: -600px; bottom: 100px;" align="right"/>
 </div>
 
 
+‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ 
 
 # Sobre mi 🕹️
 - Estoy iniciando en el mundo de la programacion 💻
