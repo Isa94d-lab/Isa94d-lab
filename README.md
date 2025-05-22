@@ -129,6 +129,30 @@
 </div>
 <br>
 
+
+<div> 
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Isa94d-lab&layout=compact&theme=dracula)
+
+  </div>
+</td>
+
+<td width="50%">
+  <div align="center">
+    
+  ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Isa94d-lab&show_icons=true&theme=dracula)
+
+  </div>
+</td>
+</tr>
+</div> 
+
+
+
 <!--
 **Isa94d-lab/Isa94d-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
